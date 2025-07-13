@@ -1,8 +1,8 @@
-# Path Finder - Interactive Route Planning Web Application
+# SheSecure - Safest Route Mapping Web Application
 
 ## Overview
 
-Path Finder is a web application that allows users to:
+SheSecure is a web application that allows users to:
 - Share their current location
 - View an interactive map
 - Enter a destination
